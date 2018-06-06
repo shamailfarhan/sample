@@ -14,7 +14,7 @@ import android.widget.ToggleButton;
 import android.view.View.OnClickListener;
 import java.math.*;
 
-public class MainActivity extends Activity implements OnClickListener {
+public class MyActivity extends Activity implements OnClickListener {
 Button b1,b2,b3,b4,b5,b6,b7,b8,b9,b0,b_p,b_ce,ba,bm,bd,bs,b_ent,b_pow,b_rt,b_per,b_dot,b_del;
 EditText res;int enta=0;
 ToggleButton tg;
